@@ -1,0 +1,9 @@
+{
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "javascript.suggest.completeFunctionCalls": true,
+  "typescript.suggest.completeFunctionCalls": true
+}
